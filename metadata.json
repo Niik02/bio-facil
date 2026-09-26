@@ -1,0 +1,6 @@
+{
+  "name": "Biofácil - Página de Vendas",
+  "description": "Página de vendas moderna, minimalista e de alta conversão para os BioSites editáveis da Biofácil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
